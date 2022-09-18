@@ -6,3 +6,4 @@ c = a * b
 print(c)
 c = c + c
 print(c)
+print("Bye")
